@@ -1,0 +1,14 @@
+#README#
+Updated: 23/08/11
+Author: Glynn Taylor
+
+All the source code is in the repository, feel free to use for your own games so long as the games themselves are not replicas of the game produced by this source code (the majority of the game is your own code). Be warned the coding style is also very messy, it would be advised to use a better architecture.
+
+#Changelog#
+v0.05: 23/08/11
+-Building and destroyables
+-New NPC Penguins, no super class yet since they are the only designed mob
+-Collision updates
+-New Objects, stone block and Caltrops
+-UI updates, health and resources
+-Resources
